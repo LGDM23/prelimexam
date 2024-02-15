@@ -9,14 +9,8 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p> Lou Guerrig Mendoza My Hobbies are Playing, Powerlifting, my favorite music is Remember the name. my favorite food is
-Pizza.</p>
-  <ul>
-  <li>My expection on this subject is to gain more knowledge about system intergration and architecture</li>
-  <li>I want to learn the basic foundation of this subject</li>
-  <li>I want be familiar with deploying website and gain more understanding about it</li>
-  </ul>
-  
+        <p> Lou Guerrig Mendoza </p>
+
      <p>10 Things That Require Zero Talent</p>
         <ul>
         <li>1. Being on Time</li>
